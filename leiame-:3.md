@@ -1,0 +1,3 @@
+- 👋 olá,sou @Pauloalexandre0
+- 👀 estou interessado em ser programador 
+- 📫 obs:está em desenvolvimento | meu site: file:///C:/Users/CPDI/Desktop/vscode/index.html
